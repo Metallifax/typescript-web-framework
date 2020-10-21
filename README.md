@@ -1,4 +1,4 @@
-## Web Framework Project
+# Web Framework Project
 
 **OPTIONAL** install parcel html/ts server
 
@@ -7,6 +7,7 @@ npm i -g parcel
 ```
 
 To install the dependencies
+
 ```bash
 yarn
 ```
